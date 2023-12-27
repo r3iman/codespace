@@ -1,0 +1,26 @@
+[
+  {
+    "product_name": "ok",
+    "quantity": 4,
+    "amount": 12.0,
+    "timestamp": "2023-12-16 04:20:16.364288"
+  },
+  {
+    "product_name": "cocktail",
+    "quantity": 3,
+    "amount": 3027.0,
+    "timestamp": "2023-12-16 04:20:16.369288"
+  },
+  {
+    "product_name": "ok",
+    "quantity": 34,
+    "amount": 102.0,
+    "timestamp": "2023-12-16 11:39:24.346740"
+  },
+  {
+    "product_name": "cocktail",
+    "quantity": 1,
+    "amount": 1009.0,
+    "timestamp": "2023-12-16 11:42:22.152563"
+  }
+]
